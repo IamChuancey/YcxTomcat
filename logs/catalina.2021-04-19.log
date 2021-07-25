@@ -1,0 +1,1370 @@
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 342 ms
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 1 ms
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 09:27:23 上午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 15 ms
+04 19, 2021 09:27:50 上午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:29)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 327 ms
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 0 ms
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 09:39:05 上午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 14 ms
+04 19, 2021 09:39:18 上午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:29)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 227 ms.
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 9 ms.
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee has finished in 14 ms.
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 2 ms.
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 3 ms
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 10:51:40 上午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 15 ms
+04 19, 2021 13:32:39 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 13:32:39 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 261 ms.
+04 19, 2021 13:32:39 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:32:39 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 13:32:39 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee has finished in 55081 ms.
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 1 ms.
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 13:33:34 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 9 ms
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 318 ms.
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 3 ms.
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee has finished in 10 ms.
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 1 ms.
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 5 ms.
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 8 ms
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 13:34:40 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 26 ms
+04 19, 2021 13:35:37 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 13:35:37 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 255 ms.
+04 19, 2021 13:35:37 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:35:37 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 13:35:37 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee
+04 19, 2021 13:35:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee has finished in 7604 ms.
+04 19, 2021 13:35:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 13:35:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 1 ms.
+04 19, 2021 13:35:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:35:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 13:35:46 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 16 ms
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 178 ms.
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 3 ms.
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 19 ms.
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 13:39:03 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 11 ms
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 289 ms.
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 10 ms.
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:41:05 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 4 ms
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 13:41:08 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 26 ms
+04 19, 2021 13:49:50 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 13:49:50 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 1858 ms.
+04 19, 2021 13:50:20 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:50:20 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 22 ms.
+04 19, 2021 13:50:56 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 13:57:48 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 13:57:48 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 2005 ms.
+04 19, 2021 13:58:23 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 13:58:23 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 18 ms.
+04 19, 2021 14:06:07 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 482662 ms.
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:14:08 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 13 ms
+04 19, 2021 14:14:42 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 14:14:42 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 1888 ms.
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 9 ms.
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:14:54 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 14 ms
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 211 ms.
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 2 ms.
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 13 ms.
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:15:04 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 14 ms
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 242 ms.
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 2 ms.
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee has finished in 11 ms.
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 1 ms.
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:18:30 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 26 ms
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 154 ms.
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 2 ms.
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee has finished in 5 ms.
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 1 ms.
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:18:43 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:18:44 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 13 ms
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 161 ms.
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 2 ms.
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/j2ee has finished in 6 ms.
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 1 ms.
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:20:24 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 14 ms
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 177 ms.
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 6 ms.
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:21:25 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 12 ms
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 303 ms.
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 29 ms.
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 14:26:10 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 11 ms
+04 19, 2021 14:26:44 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:35)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 254 ms.
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 12 ms.
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 8 ms
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 15:22:14 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 31 ms
+04 19, 2021 15:22:29 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:35)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+04 19, 2021 15:22:29 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: InvocationTargetException: null
+cn.hutool.core.exceptions.UtilException: InvocationTargetException: null
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:750)
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:770)
+	at cn.ycx.ycxtomcat.servlets.InvokerServlet.service(InvokerServlet.java:24)
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:31)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:748)
+	... 7 more
+Caused by: java.lang.NullPointerException
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:619)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	... 12 more
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 211 ms.
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 2 ms.
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 11 ms.
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 15:24:01 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 20 ms
+04 19, 2021 15:24:16 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: InvocationTargetException: null
+cn.hutool.core.exceptions.UtilException: InvocationTargetException: null
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:750)
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:770)
+	at cn.ycx.ycxtomcat.servlets.InvokerServlet.service(InvokerServlet.java:24)
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:31)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:748)
+	... 7 more
+Caused by: java.lang.NullPointerException
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:619)
+	... 12 more
+04 19, 2021 15:28:45 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 15:28:45 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 490 ms.
+04 19, 2021 15:28:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:28:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 5 ms.
+04 19, 2021 15:28:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 15:28:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 16 ms.
+04 19, 2021 15:28:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:28:54 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 15:28:56 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 16 ms
+04 19, 2021 15:32:49 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: InvocationTargetException: null
+cn.hutool.core.exceptions.UtilException: InvocationTargetException: null
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:750)
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:770)
+	at cn.ycx.ycxtomcat.servlets.InvokerServlet.service(InvokerServlet.java:24)
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:31)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:748)
+	... 7 more
+Caused by: java.lang.NullPointerException
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:619)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	... 12 more
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 274 ms.
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 13 ms.
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 15:34:13 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 31 ms
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 229 ms.
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 10 ms.
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 11 ms
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 15:38:11 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 35 ms
+04 19, 2021 15:38:22 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:35)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 277 ms.
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 10 ms.
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 16:17:44 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 18 ms
+04 19, 2021 16:18:03 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.servlets.DefaultServlet.service(DefaultServlet.java:29)
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:34)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 431 ms.
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 7 ms.
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 4 ms.
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 20:29:24 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 15 ms
+04 19, 2021 20:29:53 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.servlets.DefaultServlet.service(DefaultServlet.java:29)
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:34)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/a has finished in 241 ms.
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 1 ms.
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/ROOT has finished in 7 ms.
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deploying web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/chuancey/Idea-Workspace/YcxTomcat/webapps/b has finished in 0 ms.
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Version:		10.12.6
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Architecture:		x86_64
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server version:		Ycx DiyTomcat/1.0.1
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+04 19, 2021 22:56:40 下午 cn.ycx.ycxtomcat.catalina.Server start
+INFO : Server startup in 11 ms
+04 19, 2021 22:56:54 下午 cn.ycx.ycxtomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.ycx.ycxtomcat.servlets.DefaultServlet.service(DefaultServlet.java:29)
+	at cn.ycx.ycxtomcat.catalina.HttpProcessor.execute(HttpProcessor.java:34)
+	at cn.ycx.ycxtomcat.catalina.Connector.lambda$run$0(Connector.java:44)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
